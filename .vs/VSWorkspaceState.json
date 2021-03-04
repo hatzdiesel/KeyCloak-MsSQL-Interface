@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\org",
+    "\\src\\main\\java\\org\\keycloak",
+    "\\src\\main\\java\\org\\keycloak\\custom",
+    "\\src\\main\\java\\org\\keycloak\\custom\\storage",
+    "\\src\\main\\java\\org\\keycloak\\custom\\storage\\user"
+  ],
+  "SelectedNode": "\\src\\main\\java\\org\\keycloak\\custom\\storage\\user\\CustomUserStorageProvider.java",
+  "PreviewInSolutionExplorer": false
+}
